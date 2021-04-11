@@ -1,0 +1,22 @@
+{
+ "products":[
+   {"id": 1 , "productName":"kids 2pk face masks","price":"185000","discount":20,"image":["/images/bag.png"],"cateory":"Face Masks"},
+   {"id": 2 , "productName":"kids 2pk face masks","price":"185000","discount":20,"image":["/images/bag.png"],"cateory":"Face Masks"},
+   {"id": 3 , "productName":"kids 2pk face masks","price":"185000","discount":20,"image":["/images/bag.png"],"cateory":"Face Masks"},
+   {"id": 4 , "productName":"kids 2pk face masks","price":"185000","discount":20,"image":["/images/bag.png"],"cateory":"Face Masks"},
+   {"id": 5 , "productName":"kids 2pk face masks","price":"185000","discount":20,"image":["/images/bag.png"],"cateory":"Face Masks"},
+   {"id": 6 , "productName":"kids 2pk face masks","price":"185000","discount":20,"image":["/images/bag.png"],"cateory":"Face Masks"},
+   {"id": 7 , "productName":"kids 2pk face masks","price":"185000","discount":20,"image":["/images/bag.png"],"cateory":"Face Masks"}
+   
+   
+   ],
+  "categories":[
+    {"id":1,"category":"Electronics","items":12},
+    {"id":2,"category":"Face Masks","items":12},
+    {"id":3,"category":"Fresh Food","items":12},
+    {"id":4,"category":"Grocery","items":12},
+    {"id":5,"category":"Home","items":12},
+    {"id":6,"category":"Kids","items":12}
+  
+  ]
+}
