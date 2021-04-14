@@ -10,7 +10,7 @@
    ],
   "categories":[
     {"id":1,"category":"Electronics","items":1},
-    {"id":2,"category":"Face Masks","items":1},
+    {"id":2,"category":"Face Masks","items":2},
     {"id":3,"category":"Fresh Food","items":1},
     {"id":4,"category":"Grocery","items":1},
     {"id":5,"category":"Home","items":1},
