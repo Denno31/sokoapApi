@@ -9,12 +9,12 @@
    {"id": 7 , "productName":"kids 2pk face masks","decription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur","price":"185000","discount":20,"image":["/images/bag.png"],"category":"Face Masks"}
    ],
   "categories":[
-    {"id":1,"category":"Electronics","items":12},
-    {"id":2,"category":"Face Masks","items":12},
-    {"id":3,"category":"Fresh Food","items":12},
-    {"id":4,"category":"Grocery","items":12},
-    {"id":5,"category":"Home","items":12},
-    {"id":6,"category":"Kids","items":12}
+    {"id":1,"category":"Electronics","items":1},
+    {"id":2,"category":"Face Masks","items":1},
+    {"id":3,"category":"Fresh Food","items":1},
+    {"id":4,"category":"Grocery","items":1},
+    {"id":5,"category":"Home","items":1},
+    {"id":6,"category":"Kids","items":1}
   
   ]
 }
